@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DheerajAlamalakala/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DheerajAlamalakala/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/DheerajAlamalakala/leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0414-third-maximum-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheerajAlamalakala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/DheerajAlamalakala/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer

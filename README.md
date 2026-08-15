@@ -114,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajAlamalakala/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/DheerajAlamalakala/leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/DheerajAlamalakala/leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/DheerajAlamalakala/leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/DheerajAlamalakala/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

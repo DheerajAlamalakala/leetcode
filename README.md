@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/DheerajAlamalakala/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajAlamalakala/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DheerajAlamalakala/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0414-third-maximum-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DheerajAlamalakala/leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->

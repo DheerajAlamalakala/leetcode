@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

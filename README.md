@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DheerajAlamalakala/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DheerajAlamalakala/leetcode/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/DheerajAlamalakala/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0414-third-maximum-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/DheerajAlamalakala/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/DheerajAlamalakala/leetcode/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/DheerajAlamalakala/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

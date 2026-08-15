@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |

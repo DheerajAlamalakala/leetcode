@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheerajAlamalakala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DheerajAlamalakala/leetcode/tree/master/0014-longest-common-prefix) |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
 ## Recursion
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheerajAlamalakala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

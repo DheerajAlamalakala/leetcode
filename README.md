@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DheerajAlamalakala/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheerajAlamalakala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DheerajAlamalakala/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

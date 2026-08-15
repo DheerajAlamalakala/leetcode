@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/DheerajAlamalakala/leetcode/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/DheerajAlamalakala/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/DheerajAlamalakala/leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/DheerajAlamalakala/leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajAlamalakala/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/DheerajAlamalakala/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DheerajAlamalakala/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
